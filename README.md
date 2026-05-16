@@ -52,14 +52,5 @@ I learn by shipping — both projects below are fully functional and deployed.
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kasituki&show_icons=true&theme=default&hide_border=true&count_private=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasituki&layout=compact&theme=default&hide_border=true" height="155" />
-</p>
-
----
-
 *副業・業務委託でのWeb開発案件についてはGitHub Issuesまたはブログ経由でご連絡ください。*  
 *For freelance / contract inquiries, reach out via GitHub Issues or Zenn.*
